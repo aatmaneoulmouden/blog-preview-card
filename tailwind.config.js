@@ -5,10 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    // container: {
-    //   center: true,
-
-    // },
+    container: {
+      padding: {
+        DEFAULT: '1rem',
+      }
+    },
     fontFamily: {
       "main": ["Figtree", "sans-serif"],
     },

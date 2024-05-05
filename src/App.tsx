@@ -1,7 +1,11 @@
+import Footer from "./components/Footer";
+import Main from "./components/Main";
+
 function App() {
   return (
     <>
-      <h1>hello</h1>
+      <Main />
+      <Footer />
     </>
   );
 }
