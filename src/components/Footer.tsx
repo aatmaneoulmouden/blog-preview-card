@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
     <footer>
-      <div className="container">
-        <div className="attribution text-center text-sm py-3">
+      <div className="container mx-auto max-w-full">
+        <div className="attribution text-center pb-3">
           Challenge by{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor

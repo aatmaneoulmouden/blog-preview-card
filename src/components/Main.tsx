@@ -4,7 +4,9 @@ const Main = () => {
   return (
     <main>
       <div className="container mx-auto max-w-full">
-        <Card />
+        <div className="min-h-screen flex justify-center items-center">
+          <Card />
+        </div>
       </div>
     </main>
   );
