@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,8 +26,8 @@ Users can:
 
 ### Links
 
-<!-- - Solution URL: [See the solution]() -->
-- Live Site URL: [Preview the solution](https://social-links-profile-nu-smoky.vercel.app/)
+- Solution URL: [See the solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-react-and-tailwindcss-0cxeZOSzQ8)
+- Live Site URL: [Preview the solution](https://blog-preview-card-xi-gray.vercel.app/)
 
 ## My process
 
